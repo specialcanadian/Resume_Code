@@ -1,5 +1,6 @@
 # Resume_Code
-Codes that are actually fairly impressive
+These codes use an extensive database of stars, making various 
+plots, including a H-R diagram, distance histogram, and an animation of star movement
 
-These codes make use of an extensive database of stars, which can be found
-here: http://www.astronexus.com/hyg. I used version 3.0
+
+the database can be found here: http://www.astronexus.com/hyg. I used version 3.0
